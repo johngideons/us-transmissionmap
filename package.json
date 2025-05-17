@@ -2,7 +2,7 @@
   "name": "malaria-map",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://johngideons.github.io/malaria-map",
+  "homepage": "https://johngideons.github.io/us-transmissionmap",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
