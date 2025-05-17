@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/us-transmissionmap/static/css/main.3448ecd5.css",
+    "main.js": "/us-transmissionmap/static/js/main.995d838a.js",
+    "static/js/453.5d1fb295.chunk.js": "/us-transmissionmap/static/js/453.5d1fb295.chunk.js",
+    "index.html": "/us-transmissionmap/index.html",
+    "main.3448ecd5.css.map": "/us-transmissionmap/static/css/main.3448ecd5.css.map",
+    "main.995d838a.js.map": "/us-transmissionmap/static/js/main.995d838a.js.map",
+    "453.5d1fb295.chunk.js.map": "/us-transmissionmap/static/js/453.5d1fb295.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3448ecd5.css",
+    "static/js/main.995d838a.js"
+  ]
+}
